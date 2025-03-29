@@ -1,9 +1,7 @@
 Privacy Policy
 
-This app does not collect, store, or share any user data.
-
+This app does not collect, store, or share any personal user data externally.
 For the QR code scanning feature, the app requires camera access. The camera is used solely for scanning QR codes, and no images or data are saved or uploaded anywhere.
-
+The app stores user inputs and settings locally on the device. This data remains on your device and is not transmitted, processed, or used in any other way.
 By using this app, you agree to this privacy policy.
-
 If you have any questions, feel free to contact me.
